@@ -11,7 +11,7 @@ const AnatomySection = () => (
         <span>Healthy Heart</span>
       </div>
       <div className="absolute top-[66%] right-[70%] bg-cyan-400 text-white text-xs px-2 py-1 rounded-lg flex items-center space-x-1 shadow-md text-nowrap">
-        <span role="img" aria-label="leg">⚡</span>
+        <span role="img" aria-label="leg">🦵</span>
         <span>Healthy Leg</span>
       </div>
     </div>
