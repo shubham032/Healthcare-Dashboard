@@ -11,9 +11,10 @@ A modern, responsive healthcare dashboard built with **React** ⚛️, **Vite** 
 - 📱 Responsive sidebar navigation
 - 🎨 Modern UI with custom color palette and icons
 
-## 📸 Screenshot
+## 🌐 Live Demo
 
-![Dashboard Screenshot](./screenshot.png)
+[View the live dashboard here!](https://healthcare-dashboard-jade-kappa.vercel.app/)
+
 
 ## 🚀 Getting Started
 
@@ -21,12 +22,20 @@ A modern, responsive healthcare dashboard built with **React** ⚛️, **Vite** 
 
 - [Node.js](https://nodejs.org/) (v18 or higher recommended)
 - [npm](https://www.npmjs.com/)
+- vite
+- react
+- react-dom
+- tailwindcss
+- @fortawesome/react-fontawesome
+- @fortawesome/free-solid-svg-icons
+- @fortawesome/free-regular-svg-icons
+- @fortawesome/fontawesome-svg-core
 
 ### Installation
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/healthcare-dashboard.git
+   git clone https://github.com/shubham032/healthcare-dashboard.git
    cd healthcare-dashboard
    ```
 
