@@ -15,7 +15,6 @@ A modern, responsive healthcare dashboard built with **React** ⚛️, **Vite** 
 
 [View the live dashboard here!](https://healthcare-dashboard-jade-kappa.vercel.app/)
 
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -34,17 +33,20 @@ A modern, responsive healthcare dashboard built with **React** ⚛️, **Vite** 
 ### Installation
 
 1. **Clone the repository:**
+
    ```sh
    git clone https://github.com/shubham032/healthcare-dashboard.git
    cd healthcare-dashboard
    ```
 
 2. **Install dependencies:**
+
    ```sh
    npm install
    ```
 
 3. **Start the development server:**
+
    ```sh
    npm run dev
    ```
@@ -55,13 +57,14 @@ A modern, responsive healthcare dashboard built with **React** ⚛️, **Vite** 
    ```
 
 ## 🗂️ Project Structure
+
 src/
-  assets/         # Images and icons
-  components/     # React components
-  data/           # Static data files
-  styles/         # Tailwind and custom CSS
-  App.jsx         # Main app component
-  main.jsx        # Entry point
+assets/ # Images and icons
+components/ # React components
+data/ # Static data files
+styles/ # Tailwind and custom CSS
+App.jsx # Main app component
+main.jsx # Entry point
 
 ## 🛠️ Tech Stack
 
@@ -71,11 +74,13 @@ src/
 - ⭐ Font Awesome
 
 ## 🎨 Customization
-- Colors: Adjust Tailwind config or use 
+
+- Colors: Adjust Tailwind config or use
 - inline styles for custom palette.
 - Icons: Add or change icons in src/assets/
 - icons and update data files.
-- Data: Edit files in src/data/ for    appointments, health status, etc.
+- Data: Edit files in src/data/ for appointments, health status, etc.
 
 ## 📄 License
+
 MIT ```
