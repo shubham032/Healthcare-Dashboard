@@ -15,7 +15,7 @@ const DashboardOverview = () => (
     placeholder="Search"
     className="px-3 py-1 pr-10 rounded-md w-full border border-transparent focus:outline-none focus:ring-0 focus:border-none"
     />
-  <span className="absolute right-3 top-1/2 transform -translate-y-1/2 text-red-500">
+  <span className="absolute right-3 top-1/2 transform -translate-y-1/2">
     🔔
   </span>
 </div>

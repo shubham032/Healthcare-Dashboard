@@ -1,6 +1,5 @@
 import React from 'react';
 import Anatomy from '../assets/images/anatomy.png';
-
 const AnatomySection = () => (
   <div className="p-7 flex justify-center">
     <div className="relative bg-gray-100 rounded-xl shadow p-4 max-w-sm w-full">
